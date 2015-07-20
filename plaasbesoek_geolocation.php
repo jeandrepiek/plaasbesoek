@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>Plaasbesoek</title>
-    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <link href="font-awesome-4.3.0/css/font-awesome.min.css" rel="stylesheet">
     <link href='http://fonts.googleapis.com/css?family=Ubuntu' rel='stylesheet' type='text/css'>
